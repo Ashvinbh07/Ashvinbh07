@@ -1,15 +1,147 @@
+<h1 align="center">Hi 👋, I'm Ashvin Bhatt</h1>
+<h3 align="center">Aspiring Data Analyst | Python • SQL • Power BI • AI-Assisted Analytics</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashvinbhatt_10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ashvin Bhatt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ybhatt4321@gmail.com) 
+<img align="right" alt="Data Analytics" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ashvinbh07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ashvinbh07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashvinbh07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ashvinbh07&label=Profile%20views&color=0e75b6&style=flat" alt="Ashvinbh07" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ashvinbh07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 🎓 Final Year B.Tech Computer Engineering student at **Thapar Institute of Engineering and Technology**
+- 📊 Passionate about **Data Analytics, Business Intelligence, and AI-assisted workflows**
+- 🌱 Currently improving skills in **Advanced SQL, Power BI, Python, and Data Engineering**
+- 💡 Interested in **ETL Pipelines, KPI Dashboards, Data Storytelling, and Automation**
+- 📫 Reach me at: **ashvinbhatt2003@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/AshvinBhatt" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+
+<a href="https://github.com/Ashvinbh07" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="30" width="30" />
+</a>
+</p>
+
+---
+
+## 🛠️ Skills & Tools
+
+### 👨‍💻 Languages & Querying
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</p>
+
+- Python (Pandas, NumPy)
+- SQL (Joins, Aggregations, Window Functions, CTEs, Subqueries)
+
+### 📊 Data Analytics & Visualization
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40" height="40"/>
+</p>
+
+- Power BI (DAX, KPI Dashboards, Drill-throughs)
+- Excel (Pivot Tables, VLOOKUP, Charts)
+- Data Cleaning & EDA
+- Statistical Analysis
+- Data Storytelling
+
+### ⚙️ Tools & Technologies
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</p>
+
+- MySQL
+- SQLAlchemy
+- Jupyter Notebook
+- Git & GitHub
+- VS Code
+- ChatGPT, Gemini, GitHub Copilot
+
+### 🤖 AI & Automation
+- Prompt Engineering
+- AI-assisted Data Analysis
+- Reporting Automation
+- Generative AI Workflows
+
+---
+
+# 📂 Featured Projects
+
+## 📈 Data Science Job Market Intelligence
+**Tech Stack:** Python, Pandas, NumPy, SQL, MySQL, Power BI
+
+- Processed **12,000+ job listings** using Python and SQL-based ETL workflows
+- Built interactive **Power BI dashboards** with DAX KPIs
+- Analyzed hiring trends, salaries, and in-demand skills
+- Applied AI-assisted analytics workflows for business insights
+
+🔗 GitHub:  
+https://github.com/Ashvinbh07/Job-Market-Intelligence
+
+---
+
+## 🏏 ICC ODI World Cup Analysis
+**Tech Stack:** Python, Pandas, NumPy, MySQL, Power BI
+
+- Cleaned and analyzed **129,000+ rows** of cricket data
+- Developed Power BI dashboards for player and match insights
+- Performed sports performance analytics using Python & SQL
+
+🔗 GitHub:  
+https://github.com/Ashvinbh07/ICC-ODI-WorldCup-Analysis
+
+---
+
+# 💼 Experience
+
+## Deloitte (Forage) — Data Analyst Intern
+- Built interactive Tableau dashboards for downtime analysis
+- Applied Excel IF logic and AI-assisted interpretation techniques
+
+## Tata (Forage) — Data Visualization Intern
+- Developed Power BI dashboards for business visualization problems
+- Presented insights using storytelling and KPI-focused reporting
+
+---
+
+# 📜 Certifications
+
+- Deloitte Data Analytics Job Simulation — Forage
+- SQL (Intermediate) — HackerRank
+- Introduction to Prompt Engineering Certification
+- Tata Data Visualization: Empowering Business with Effective Insights — Forage
+
+---
+
+# 📊 GitHub Stats
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashvinbh07&show_icons=true&locale=en&layout=compact" alt="top-langs" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashvinbh07&show_icons=true&locale=en" alt="stats" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashvinbh07&" alt="streak" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+I enjoy transforming raw datasets into meaningful business insights using analytics and AI-powered workflows.
