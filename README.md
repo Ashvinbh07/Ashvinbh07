@@ -127,9 +127,9 @@ https://github.com/Ashvinbh07/ICC-ODI-WorldCup-Analysis
 
 ---
 
-# 📊 GitHub Stats
 
-<p>
+
+<!-- <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashvinbh07&show_icons=true&locale=en&layout=compact" alt="top-langs" />
 </p>
 
@@ -139,7 +139,7 @@ https://github.com/Ashvinbh07/ICC-ODI-WorldCup-Analysis
 
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashvinbh07&" alt="streak" />
-</p>
+</p> -->
 
 ---
 
