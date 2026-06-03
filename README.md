@@ -94,15 +94,15 @@ https://github.com/Ashvinbh07/Job-Market-Intelligence
 
 ---
 
-## 🏏 ICC ODI World Cup Analysis
-**Tech Stack:** Python, Pandas, NumPy, MySQL, Power BI
+## 🛍️ Retail Demand & Inventory Intelligence
+**Tech Stack:**  Python (Pandas, NumPy), SQL, Power BI
 
-- Cleaned and analyzed **129,000+ rows** of cricket data
-- Developed Power BI dashboards for player and match insights
-- Performed sports performance analytics using Python & SQL
+- Processed and transformed **51,290+ retail transactions** using ETL workflows
+- Built **3 interactive Power BI dashboards** with DAX KPIs and business insights
+- Analyzed sales, profitability, discounts, returns, and shipping performance
 
 🔗 GitHub:  
-https://github.com/Ashvinbh07/ICC-ODI-WorldCup-Analysis
+https://github.com/Ashvinbh07/Retail-Inventory-Analytics
 
 ---
 
