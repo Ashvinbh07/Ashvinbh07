@@ -50,8 +50,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40" height="40"/>
 </p>
 
-- Power BI (DAX, KPI Dashboards, Drill-throughs)
-- Excel (Pivot Tables, VLOOKUP, Charts)
+- Power BI
+- Excel
 - Data Cleaning & EDA
 - Statistical Analysis
 - Data Storytelling
@@ -77,8 +77,8 @@
 - Reporting Automation
 - Generative AI Workflows
 
----
-
+ ---
+ <!--
 # 📂 Featured Projects
 
 ## 📈 Data Science Job Market Intelligence
@@ -104,7 +104,7 @@ https://github.com/Ashvinbh07/Job-Market-Intelligence
 🔗 GitHub:  
 https://github.com/Ashvinbh07/Retail-Inventory-Analytics
 
----
+--- -->
 
 # 💼 Experience
 
